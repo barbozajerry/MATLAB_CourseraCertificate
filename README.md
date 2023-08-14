@@ -3,4 +3,4 @@ Working on MATLAB Programming for Engineers and Scientists Specialization certif
 
 **Course 1: Introduction to Programming MATLAB** <br>
 **Course 2: Mastering Programming with MATLAB** <br> 
-**Course 3: Ontroduction to Data,Signal, and Image Analysis with MATLAB**
+**Course 3: Introduction to Data, Signal, and Image Analysis with MATLAB**
